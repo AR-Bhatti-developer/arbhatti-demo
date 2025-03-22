@@ -1,4 +1,4 @@
 # arbhatti-demo
 This is my first Git repository.
 <br>
-Author - Ahmad Raza
+Author - Ahmad Raza(its me)
